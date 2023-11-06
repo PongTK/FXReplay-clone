@@ -1,0 +1,61 @@
+.timeframes-section{
+    width: 100vw;
+    margin-bottom: 220px;
+    padding-left: 24px;
+    padding-right: 24px;
+    display: block;
+    overflow: hidden;
+}
+
+.timeframes-container{
+    max-width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: visible;
+}
+
+h2.heading.hero{
+    text-align: center;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+.tabs-wrapper{
+    position: relative;
+}
+.tabs-menu{
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.tab-link{
+    border: 1px solid #454359;
+    background-color: #2d2c3c;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 50px;
+    padding: 9px 30px;
+    text-decoration: none;
+}
+
+.tabs-menu a.active{
+    border: 1px solid #dc2941;
+    background-color: #dc2941;
+}
+
+.tab-link:hover{
+    background-color: #454359;
+}
+
+.tabs-content{
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 500px;
+}

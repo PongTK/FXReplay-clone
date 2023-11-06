@@ -1,0 +1,146 @@
+.pricing-section{
+    width: 100vw;
+    margin-bottom: 160px;
+    padding:0px 24px;
+    display: block;
+}
+
+.container-flex-vertical{
+    max-width: 1160px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+    align-items: center;
+    margin:0px auto;
+    padding:0px 24px;
+}
+
+h1.heading{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 78px;
+}
+
+.payment-methods-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    row-gap: 24px;
+}
+
+.saving-badge{
+    width: auto;
+    border: 1px solid rgb(0, 130, 228);
+    background-color: rgba(0, 130, 228, 0.49);
+    border-radius: 8px;
+    padding: 0 8px;
+}
+
+.savings-heading{
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.curve-pointdown-arrow{
+   width: 50px;
+}
+
+.pricing-wrapper{
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 16px;
+}
+
+.pricing-card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: rgb(45, 44, 61);
+    border: 1px solid rgb(45, 44, 61);
+    border-radius: 24px;
+}
+
+.header-card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    row-gap: 8px;
+    padding: 24px 24px 10px 24px;
+}
+
+.special-subtitle{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.heading-5{
+    color: rgba(245,245,245,.58);
+    font-weight: 400;
+    line-height: 32px;
+}
+.period{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.price-title{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 54px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 4px;
+}
+
+.pricing-button{
+    cursor: pointer;
+    align-self: stretch;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    background-color: rgb(220, 41, 65);
+    text-align: center;
+    border-radius: 50px;
+    padding: 12px 16px;
+}
+
+.content-card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    row-gap: 8px;
+    padding: 8px 24px 24px 24px;
+}
+
+.feature-list-item{
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+    align-items: flex-start;
+}
+
+.check-line{
+    width: 24px;
+}
+
+p.feature-list-item{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 24px;
+}

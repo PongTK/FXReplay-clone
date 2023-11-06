@@ -1,0 +1,134 @@
+.indicators-section{
+    width: 100vw;
+    margin-bottom: 220px;
+    padding: 116px 24px;
+    display: block;
+    overflow: hidden;
+}
+
+.indicators-container{
+    max-width: 1160px;
+    grid-column-gap: 40px;
+    grid-row-gap: 40px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 40px;
+}
+
+.indicators-content{
+    width: 50%;
+}
+
+.indicators-content h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 68px;
+}
+
+p.large-p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+.search-indicators-container{
+    width: 50%;
+    padding: 40px;
+    position: relative;
+}
+
+.indicators-block{
+    height: 550px;
+    color: #f5f5f5;
+    background-color: #2d2c3d;
+    border-top: 1px solid #575572;
+    border-right: 1px solid #575572;
+    border-radius: 24px;
+    padding: 24px;
+    overflow: hidden;
+    box-shadow: 8px 8px 14px 9px rgba(0,0,0,.08);
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+}
+
+.indicators-block h3{
+    font-size: 24px;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.indicators-form{
+    width: 100%;
+}
+
+.indicators-block input{
+    width: 100%;
+    height: 48px;
+    vertical-align: middle;
+    text-align: start;
+    color: #f5f5f5;
+    background-color: #575572;
+    border: 1px #000;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 24px 12px;
+    font-size: 16px;
+    line-height: 1.42857;
+}
+
+.indicators-wrapper{
+    width: 100%;
+    height: 75%;
+    border-top: 1px solid #dc2843;
+    padding-top: 16px;
+    overflow: auto;
+}
+
+p.indicator-name{
+    text-align: start;
+    color: #f5f5f5;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 24px;
+}
+
+li{
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.gradient-image-top{
+    z-index: -5;
+    position: absolute;
+    top: -20%;
+    bottom: auto;
+    left: 130px;
+    right: 0%;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.gradient-image-bottom{
+    z-index: -5;
+    position: absolute;
+    top: auto;
+    bottom: -17%;
+    left: -29%;
+    right: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
