@@ -25,7 +25,10 @@ function Testimonial() {
                 </div>
                 <div className="testimonial-title">
                   <div className="testimonial-picture">
-                    <img src="public\Jack Ming.png" alt="Jack-Ming" />
+                    <img
+                      src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430f84a71be67b4556952f_Avatar-five.png"
+                      alt="Jack-Ming"
+                    />
                   </div>
                   <div class="testimonial-name">
                     <h4 class="heading-small">Jack Ming</h4>
@@ -50,7 +53,10 @@ function Testimonial() {
                 </div>
                 <div className="testimonial-title">
                   <div className="testimonial-picture">
-                    <img src="public\Gustav Jansson.png" alt="Gustav-Jansson" />
+                    <img
+                      src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430f84bbd3e87d60184d11_Avatar-three.png"
+                      alt="Gustav-Jansson"
+                    />
                   </div>
                   <div class="testimonial-name">
                     <h4 class="heading-small">Gustav Jansson</h4>
@@ -72,7 +78,10 @@ function Testimonial() {
                 </div>
                 <div className="testimonial-title">
                   <div className="testimonial-picture">
-                    <img src="public\Augustine.png" alt="Augustine" />
+                    <img
+                      src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430f841046fc90d90cc2c3_Avatar-six.png"
+                      alt="Augustine"
+                    />
                   </div>
                   <div class="testimonial-name">
                     <h4 class="heading-small">Augustine</h4>
@@ -93,7 +102,10 @@ function Testimonial() {
                 </div>
                 <div className="testimonial-title">
                   <div className="testimonial-picture">
-                    <img src="public\Lucas Dominik.png" alt="Lucas-Dominik" />
+                    <img
+                      src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430f848ce6021185bfc94f_Avatar-two.png"
+                      alt="Lucas-Dominik"
+                    />
                   </div>
                   <div class="testimonial-name">
                     <h4 class="heading-small">Lucas Dominik</h4>
@@ -112,7 +124,10 @@ function Testimonial() {
                 </div>
                 <div className="testimonial-title">
                   <div className="testimonial-picture">
-                    <img src="public\NINES.png" alt="NINES" />
+                    <img
+                      src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430f84c1b34e7e6681ba4f_Avatar-four.png"
+                      alt="NINES"
+                    />
                   </div>
                   <div class="testimonial-name">
                     <h4 class="heading-small">NINES</h4>
@@ -138,7 +153,10 @@ function Testimonial() {
                 </div>
                 <div className="testimonial-title">
                   <div className="testimonial-picture">
-                    <img src="public\NetKing767.png" alt="NetKing767" />
+                    <img
+                      src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430f8459a743584ee90acf_Avatar-one.png"
+                      alt="NetKing767"
+                    />
                   </div>
                   <div class="testimonial-name">
                     <h4 class="heading-small">NetKing767</h4>
@@ -149,13 +167,13 @@ function Testimonial() {
             </div>
           </div>
           <img
-            src="public\gradient-PNG.svg"
+            src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430aa27e177f2ccd2a04de_Ellipse%204.svg"
             alt="gradient-PNG"
             loading="lazy"
             class="gradient-image-left"
           ></img>
           <img
-            src="public\gradient-PNG.svg"
+            src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430aa27e177f2ccd2a04de_Ellipse%204.svg"
             alt="gradient-PNG"
             loading="lazy"
             class="gradient-image-right"

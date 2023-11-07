@@ -12,7 +12,10 @@ function Pricing() {
         </p>
         <div className="payment-methods-wrapper">
           <div class="large-p">Accepted Payment Methods</div>
-          <img src="public\payment.png" alt="payment-icon" />
+          <img
+            src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/649c6222ef91f9717ed33fd9_payment%20methods.png"
+            alt="payment-icon"
+          />
         </div>
         <div className="saving-badge">
           <h5 class="savings-heading">
@@ -20,7 +23,7 @@ function Pricing() {
           </h5>
         </div>
         <img
-          src="public\curve pointdown arrow.svg"
+          src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/650cbd8579d1584d9caf0b7a_Arrow.svg"
           alt="curve-pointdown-arrow"
           className="curve-pointdown-arrow"
         />
@@ -41,7 +44,7 @@ function Pricing() {
             <div className="content-card">
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -51,7 +54,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -61,7 +64,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -69,7 +72,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -77,7 +80,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -85,7 +88,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -93,7 +96,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -119,7 +122,7 @@ function Pricing() {
             <div className="content-card">
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -129,7 +132,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -139,7 +142,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -147,7 +150,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -155,7 +158,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -163,7 +166,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />
@@ -171,7 +174,7 @@ function Pricing() {
               </div>
               <div class="feature-list-item">
                 <img
-                  src="public\check-line.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642616165cce7e46ff13cb06_check-line.svg"
                   alt="check-line"
                   class="check-line"
                 />

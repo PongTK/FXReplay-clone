@@ -64,20 +64,40 @@ function Footer() {
       <div className="footer-bottom-wrapper">
         <div className="footer-bottom-content">
           <div class="social-icons-wrapper">
-            <a href="#" target="_blank" class="social-icon">
-              <img src="public\Twitter-icon.svg" loading="lazy" alt="" />
+            <a href="#" class="social-icon">
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/650cb548935874e4f915a4bc_Twitter.svg"
+                loading="lazy"
+                alt="Twitter"
+              />
             </a>
-            <a href="#" target="_blank" class="social-icon">
-              <img src="public\Youtube-icon.svg" loading="lazy" alt="" />
+            <a href="#" class="social-icon">
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/650cb54839fa69b26bf5b586_Youtube.svg"
+                loading="lazy"
+                alt="Youtube"
+              />
             </a>
-            <a href="#" target="_blank" class="social-icon">
-              <img src="public\instagram-icon.svg" loading="lazy" alt="" />
+            <a href="#" class="social-icon">
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/650cb543a4440da3f8aafb30_instagram-fill.svg"
+                loading="lazy"
+                alt="instagram"
+              />
             </a>
-            <a href="#" target="_blank" class="social-icon">
-              <img src="public\TikTok-icon.svg" loading="lazy" alt="" />
+            <a href="#" class="social-icon">
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/650cb5430ba00ca038f1b02b_TikTok.svg"
+                loading="lazy"
+                alt="TikTok"
+              />
             </a>
-            <a href="#" target="_blank" class="social-icon">
-              <img src="public\facebook-icon.svg" loading="lazy" alt="" />
+            <a href="#" class="social-icon">
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/650cb543e60146b7229c0d75_facebook-circle-fill.svg"
+                loading="lazy"
+                alt="facebook"
+              />
             </a>
           </div>
           <div class="footer-copyright-wrapper">
@@ -86,7 +106,7 @@ function Footer() {
               <div class="trading-view-wrapper">
                 <div class="small-p">Charts by</div>
                 <img
-                  src="public\tradingview-logo.svg"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/642618d7e6690c2e1ebc1f62_Vectors-Wrapper.svg"
                   loading="lazy"
                   height="28"
                   alt="Trading-view-Logo"

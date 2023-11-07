@@ -153,13 +153,13 @@ function indicators() {
             </div>
           </div>
           <img
-            src="public\gradient-PNG.svg"
+            src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430aa27e177f2ccd2a04de_Ellipse%204.svg"
             alt="gradient-PNG"
             loading="lazy"
             className="gradient-image-top"
           />
           <img
-            src="public\gradient-PNG.svg"
+            src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64430aa27e177f2ccd2a04de_Ellipse%204.svg"
             alt="gradient-PNG"
             loading="lazy"
             className="gradient-image-bottom"

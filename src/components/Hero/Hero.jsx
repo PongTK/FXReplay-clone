@@ -1,8 +1,5 @@
 import React from "react";
 import "./Hero.css";
-import heroContentImg1 from "public/hero-content-img1.png";
-import easyOrder from "public/easyorder.png";
-import strategyCreation from "public/strategy creation.png";
 
 function Hero() {
   return (
@@ -34,16 +31,25 @@ function Hero() {
               </div>
             </div>
             <div className="feature-img">
-              <img src={heroContentImg1} alt="feature-img" />
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64513ef385e6772c849a9594_Analytics%20image%20features.png"
+                alt="feature-img"
+              />
             </div>
           </div>
           <div className="main-hero-layout2">
             <div className="easyorder-wrapper-features">
               <h3 class="heading-left-align">Easy order management</h3>
-              <img src={easyOrder} alt="easyorder" />
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6446d48c1fb457c87de20abe_Features%20Easy%20order-image.png"
+                alt="easyorder"
+              />
             </div>
             <div className="strategy-wrapper-features">
-              <img src={strategyCreation} alt="strategy-creation" />
+              <img
+                src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/646fed3ad2977ff306ba7eee_Create%20Strategies%20image.png"
+                alt="strategy-creation"
+              />
               <h3 class="heading-left-align">Multiple strategy creation</h3>
             </div>
           </div>

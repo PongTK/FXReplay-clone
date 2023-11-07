@@ -12,7 +12,10 @@ function Orders() {
           </p>
         </div>
         <div className="features-gif-wrapper">
-          <img src="public\GIF-drawing-orders.gif" alt="GIF-drawing-orders" />
+          <img
+            src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6441bb782465003a9983ebd3_Place-order-with-drawing-2.gif"
+            alt="GIF-drawing-orders"
+          />
         </div>
         <div className="order-grid-layout">
           <div className="drawing-wrapper-feature">
@@ -22,12 +25,15 @@ function Orders() {
               matters: technical analysis.
             </p>
             <img
-              src="public\Save-drawing-templates.gif"
+              src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6441cb79dfbc2d7e8a3b7e7b_Save-templates.gif"
               alt="Save-drawing-templates"
             />
           </div>
           <div className="tdv-wrapper-feature">
-            <img src="public\TradingView-charts.png" alt="TradingView-charts" />
+            <img
+              src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6441ce67dfbc2d320b3bc0cb_Trading%20view%20-%20Feature.png"
+              alt="TradingView-charts"
+            />
             <h3 class="heading-left-align">TradingView charts</h3>
             <p class="paragraph">
               Backtesting with familiar tools never felt so real.
@@ -49,7 +55,10 @@ function Orders() {
               empowering you to elevate your backtesting and trade with informed
               precision.
             </p>
-            <img src="public\Economic-calendar.png" alt="Economic-calendar" />
+            <img
+              src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64d2b0b67f14f6ed633f66f2_Calendar%20feature.png"
+              alt="Economic-calendar"
+            />
           </div>
           <div className="timeframe-wrapper-feature">
             <h3 class="heading-left-align">Multiple timeframes</h3>
@@ -57,14 +66,20 @@ function Orders() {
               analyze price action across various timeframes simultaneously,
               gaining a comprehensive view of trends and patterns.
             </p>
-            <img src="public\Multitimeframe.png" alt="Multitimeframe" />
+            <img
+              src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64ecec207913e34e13d0b134_Multitimeframe%20feature%202.png"
+              alt="Multitimeframe"
+            />
           </div>
         </div>
         <div className="order-blog4">
           <div className="order-blog4-container">
             <div className="order-blog4-grid">
               <div className="card-wrapper">
-                <img src="public\auto-risk-culc.png" alt="auto-risk-culc" />
+                <img
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6442ff8e96494e0c5cf8898e_Automatic%20Risk%20Calculator.png"
+                  alt="auto-risk-culc"
+                />
                 <div className="card-content">
                   <h4>Automatic risk calculation</h4>
                   <p class="paragraph-2">
@@ -74,7 +89,10 @@ function Orders() {
                 </div>
               </div>
               <div className="card-wrapper">
-                <img src="public\con-adding-indy.png" alt="con-adding-indy" />
+                <img
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6442ffa1ec30b665dfc31d91_Custom%20Indicators.png"
+                  alt="con-adding-indy"
+                />
                 <div className="card-content">
                   <h4>Continously adding new indicators</h4>
                   <p class="paragraph-2">
@@ -85,7 +103,7 @@ function Orders() {
               </div>
               <div className="card-wrapper">
                 <img
-                  src="public\save-chart-layout.png"
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/6442ffb5733e83665c781b0f_Save%20Chart%20Layout.png"
                   alt="save-chart-layout"
                 />
                 <div className="card-content">
@@ -97,7 +115,10 @@ function Orders() {
                 </div>
               </div>
               <div className="card-wrapper">
-                <img src="public\statistics.png" alt="statistics" />
+                <img
+                  src="https://assets-global.website-files.com/6424a815c888c02bfd0b7e47/64513f9dcbf616cf8e0cbe17_Statistics.png"
+                  alt="statistics"
+                />
                 <div className="card-content">
                   <h4>statistics</h4>
                   <p class="paragraph-2">
