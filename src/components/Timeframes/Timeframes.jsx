@@ -1,5 +1,5 @@
 import React from "react";
-import "./timeframes.css";
+import "./Timeframes.css";
 import ForexContentTab from "./ForexContentTab";
 import IndexContentTab from "./IndexContentTab";
 import EnergyContentTab from "./EnergyContentTab";
