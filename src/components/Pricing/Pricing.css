@@ -148,8 +148,9 @@ p.feature-list-item{
 
 @media (max-width: 767px){
     h1.heading{
-        font-size: 28px;
-        line-height: 0;
+        font-size: 30px;
+        line-height: 34px;
+        display: block;
     }
     p.large-p {
         font-size: 15px;
