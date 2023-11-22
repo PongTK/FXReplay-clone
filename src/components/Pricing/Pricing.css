@@ -143,4 +143,39 @@ p.feature-list-item{
     margin-bottom: 10px;
     font-size: 16px;
     line-height: 24px;
+    text-align: left;
+}
+
+@media (max-width: 767px){
+    h1.heading{
+        font-size: 30px;
+        margin-bottom: 10px;
+        line-height: 0;
+    }
+    p.large-p {
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 20px;
+    }
+
+    .savings-heading {
+        font-size: 14px;
+    }
+
+    .curve-pointdown-arrow {
+        display: none;
+    }
+
+    .pricing-wrapper {
+        grid-template-columns: 1fr;
+        grid-row-gap: 16px;
+    }
+
+    .price-title {
+        font-size: 24px;
+    }
+
+    p.feature-list-item{
+        font-size: 15px;
+    }
 }

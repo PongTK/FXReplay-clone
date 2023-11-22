@@ -105,3 +105,17 @@ p.left{
     overflow: hidden;
     transition: all 0.35s;
 }
+
+@media (max-width: 767px){
+    .faqs-container{
+        grid-template-columns: 1fr;
+    }
+
+    .faqs-heading h2{
+        text-align: center;
+    }
+
+    .faqs-content p{
+        text-align: center;
+    }
+}

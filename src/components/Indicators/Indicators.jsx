@@ -125,7 +125,7 @@ function indicators() {
     <div className="indicators-section">
       <div className="indicators-container">
         <div className="indicators-content">
-          <h2 class="heading hero">Explore our wide range of indicators</h2>
+          <h2 class="heading-hero">Explore our wide range of indicators</h2>
           <p class="large-p">
             Take your trading experience to the next level with FX Replay.
           </p>

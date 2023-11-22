@@ -7,7 +7,7 @@ function Testimonial() {
       <div className="testimonial-container">
         <div className="testimonial-wrapper">
           <div className="heading-testimonial">
-            <h2 class="heading hero">
+            <h2 class="heading-hero">
               Here's what FX Replay traders have to say
             </h2>
           </div>

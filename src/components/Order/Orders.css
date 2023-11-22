@@ -230,6 +230,16 @@ p.paragraph-2{
     text-align: left;
 }
 
-@media (max-width: 991px){
-    .order-blog4-grid{grid-template-columns: 1fr 1fr;}
+@media (max-width: 767px){
+    h2.heading-hero {
+        font-size: 45px;
+        line-height: 48px;
+    }
+
+    .order-grid-layout{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .order-blog4-grid{grid-template-columns: 1fr;}
 }

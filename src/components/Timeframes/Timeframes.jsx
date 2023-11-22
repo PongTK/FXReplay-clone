@@ -11,7 +11,7 @@ function Timeframes() {
   return (
     <div className="timeframes-section">
       <div className="timeframes-container">
-        <h2 class="heading hero">
+        <h2 class="heading-hero">
           Check out our available pairs and timeframes
         </h2>
         <div className="tabs-wrapper">

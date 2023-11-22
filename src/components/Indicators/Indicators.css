@@ -132,3 +132,33 @@ li{
     vertical-align: middle;
     display: inline-block;
 }
+
+@media (max-width: 767px){
+    .indicators-container{
+        max-width: 1160px;
+        grid-column-gap: 40px;
+        grid-row-gap: 40px;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0 40px;
+    }
+
+    .indicators-content{
+    width: 100%;
+    }
+
+    h2.heading-hero {
+        font-size: 38px;
+        line-height: 38px;
+    }
+
+    .search-indicators-container {
+        width: 100%;
+        padding: 0px;
+        position: relative;
+    }
+}

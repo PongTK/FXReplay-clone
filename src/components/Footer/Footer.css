@@ -120,3 +120,28 @@
     width: 50%;
     height: auto;
 }
+
+@media (max-width: 767px){
+    .footer-top-content{
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .links-wrapper{
+        margin-top: 12px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .links-container{
+        margin-top: 12px;
+        width: 60%;
+        align-items: center;
+    }
+
+    .footer-bottom-content{
+        grid-row-gap: 30PX;
+        align-items: center;
+        flex-direction: column;
+    }
+}

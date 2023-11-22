@@ -111,3 +111,25 @@
     bottom: auto;
     left: auto;
 }
+
+@media (max-width: 767px) {
+    .testimonial-grid-container {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    #Jack-Ming, #Augustine, #Lucas-Dominik, #NINES {
+        grid-area: span 1/ span 2/ span 2/ span 2;
+        align-self: auto;
+    }
+
+    .gradient-image-left {
+        max-width: 100%;
+        vertical-align: middle;
+        display: inline-block;
+    }
+    .gradient-image-right {
+        max-width: 100%;
+        vertical-align: middle;
+        display: inline-block;
+    }
+}
